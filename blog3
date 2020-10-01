@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog 3”
+date:   2020-09-25 11:07:48 -0700
+categories: docker
+---
+
+Today’s blog I will be talking about CSS. On Blog 1 I wrote about HTML and I showed the three different languages for a webpage. One of the languages that I wrote about was CSS. When we write CSS we’re actually overwriting the default styling with the styles that we want. CSS stands for cascading style sheets, the syntax is a presentational syntax, this differs it from HTML which is a markup language. CSS pages are made up of rules and the rules have selectors. The first thing I will talk about is inline styles. Inline styles are styles that are written directly inline in the HTML, they are applied usually to a single element. Inline styles seem straightforward to do because it is immediate, you can apply it tp the directly to the element you want so it happens right away. This though can bring a bigger problem, for example let’s say you have about 12 pages and you want every page to have the same h2, you would have to go through each page individually to find the h2 in each page and write the attribute for it. The reasons we have to do it is because it can be very useful in certain instances like HTML email, inline styles is the only way that you can apply styling for certain email clients. 
+The other thing that it makes it used for is in scripting. Let’s say you are going to build a widget dynamically, most will write in their javascript inline styles that that go into their specific elements. It is a bit easier to maintain since it is being built through javascript.  
+The Styes Element:
+It is more efficient to have styles that can affect an entire page or an entire site all at once. One thing we have to remember, the head is the area where we put things that make the page behave and have a specific style. When using Global Styles, this style applies to all instances of the element, this means that it will apply to every single h2 on the pages. With CSS you can be a little bit more targeted if you want to. Let’s say I take the first h2 and I were to apply a class of alert, I can comeback up to the selector and change that to .alert. This is known as a class selector, it has a period in front of it and then the value of the class attribute. The cool thing is that II can use classes as often as I want. 
+This is as far as I have gotten learning CSS, in another blog I will continue to explain more of what I have learned on my way to the next language which will be javascript. 
