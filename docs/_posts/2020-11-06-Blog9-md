@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog 9”
+date:   2020-11-06 11:07:48 -0700
+categories: docker
+---
+ 
+Todays blog I will be talking about introduction to JavaScript which is the new topic I am currently learning in my CIT 384 class. Now as I explained in previous blogs, there are three layers:
+1. The first layer is the HTML document. This is where the content lives, it is marked up in a language that makes it easy for the browser to parse. When the visiting a webpage, the document is being accessed, without the HTML document there is no webpage.
+2.  The second layer is the CSS. This is the code that instructs the browser how to display the HTML markup. The HTML is the content and the CSS is the presentation. The content still remain if you were to remove the CSS. 
+3. The third layer is the JavaScript. JavaScript is a scripting language that runs in the browser and interacts with the HTML markup and with the CSS to rules to change what the user sees and what the user can do. Some call the JavaScript the interactive layer. 
+Now Java is a programming language used to write applications for computers and other devices. JavaScript is a scripting language as I explained that interacts with content in a browser but most recently in other places. So there is usually a confusion with because the only common thing they have is the name Java but JavaScript language at one time was called Mocha and then they renamed it to LiveScripts during the Netscape and Sun Microsystems licensing agreement. The original idea was to create a scripting language that was complementary to Java and also cash in on the popularity of Java. If you want to build an application that runs on its own on a computer or other devices you can use Java but if you want to build an interactive web application then that is when you will want to use JavaScript.
